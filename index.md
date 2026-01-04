@@ -6,7 +6,7 @@ title: Caine Pavlosky's CV
 Technical Support Engineer
 
 <div id="webaddress">
-<a href="https://www.surelynot.pythonanywhere.com">My Portfolio Page</a>
+<a href="http://www.surelynot.pythonanywhere.com">My Portfolio Page</a>
 | <a href="https://www.credly.com/users/caine-pavlosky">My Credly Page</a>
 </div>
 
