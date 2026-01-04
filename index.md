@@ -24,18 +24,25 @@ IT Professional with 5 years of experience in Tier 1-3 support, infrastructure m
 ### PROFESSIONAL EXPERIENCE
 
 Terra Vista Solutions | Technical Support Engineer | Dec 2024 – Present
+
 •	Resolve Tier 2 escalations for utility applications, ensuring 99.9% up-time for payment processing systems.
 •	Manage database integrity and perform complex restorations on MS Access databases to ensure continuity.
 •	Utilize SQL to optimize database queries, streamlining data processing for client operations.
+
 CyberNow Labs | Cybersecurity Analyst | Aug 2023 – Aug 2024
+
 •	Performed incident response and alert correlation using QRadar and Splunk to mitigate security risks.
 •	Managed endpoint security via CrowdStrike, documenting incident lifecycles in Jira per SOC playbooks.
 •	Identified system vulnerabilities using Nessus and OSINT to strengthen organizational security posture.
+
 MSC Industrial Supply | IT Support Specialist | Mar 2023 – Aug 2023
+
 •	Maintained 200+ hardware assets and VMware server connectivity in a high-output warehouse environment.
 •	Hardened 200+ endpoints to meet strict CMMC regulatory deadlines for government contract eligibility.
 •	Managed network resource allocation via Active Directory/DHCP to ensure zero-latency site operations.
+
 Asher College | IT Support / IT Instructor | Oct 2020 – Mar 2023
+
 •	Provided Tier 1/2 support for campus infrastructure and 100+ virtual students.
 •	Reestablished the PC Clinic, implementing data guidelines that improved student retention and attendance.
 •	Deployed AWS cloud architecture for hands-on instructional labs and cloud computing coursework.
