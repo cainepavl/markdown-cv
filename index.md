@@ -6,8 +6,8 @@ title: Caine Pavlosky's CV
 Technical Support Engineer
 
 <div id="webaddress">
-<a href="surelynot.pythonanywhere.com">My portfolio page</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="surelynot.pythonanywhere.com">My Portfolio Page</a>
+| <a href="http://www.credly.com/users/caine-pavlosky">My Credly Page</a>
 </div>
 
 ## PROFESSIONAL SUMMARY
